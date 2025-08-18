@@ -44,8 +44,6 @@ Cola convertida para PX
 
 ## 📐 Line Heights (Altura de Linha)
 
-## 📐 Line Heights (Altura de Linha)
-
 | Token                  | Valor |
 |-------------------------|-------|
 | `--lds--line-height--00` | `68px` |
