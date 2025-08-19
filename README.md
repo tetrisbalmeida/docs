@@ -74,6 +74,8 @@ Cola convertida para PX
 
 | Token                        | Valor  |
 |-------------------------------|--------|
+| `--lds--border-radius--xsm`   | `4px` |
+| `--lds--border-radius--sm`   | `6px` |
 | `--lds--border-radius--md`   | `16px` |
 | `--lds--border-radius--lg`   | `32px` |
 | `--lds--border-radius--full` | `100%` |
